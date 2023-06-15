@@ -1,0 +1,67 @@
+h1 {
+  color: #fff;
+  text-align: center;
+}
+/*tablas*/
+.table-container {
+  margin: 0 auto;
+  background-color: #ff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+table {
+
+  width: 85%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 20px;
+  text-align: center;
+}
+
+th {
+  background-color: #FE6241;
+  color: #fff;
+}
+
+td {
+  background-color: #000000;
+  color: #FE6241;
+}
+
+/* Otros estilos adicionales según tus necesidades */
+ .comic-sans {
+            font-family: "Scott Room", cursive;
+          }
+/*pie de pagina*/
+.footer {
+ background: repeating-linear-gradient(
+      190deg,
+      rgba(0, 0, 0, 0.0) 40px,
+      rgba(0, 0, 0, 0.0) 80px,
+      rgba(0, 0, 0, 0.5) 120px,
+      rgba(0, 0, 0, 0.5) 160px,
+      rgba(0, 0, 0, 0.5) 200px,
+      rgba(0, 0, 0, 0.5) 240px,
+      rgba(0, 0, 0, 0.5) 280px,
+      rgba(0, 0, 0, 0.5) 300px
+    ), repeating-linear-gradient(
+      -190deg,
+      rgba(0, 0, 0, 0.5) 30px,
+      rgba(0, 0, 0, 0.5) 60px,
+      rgba(0, 0, 0, 0.5) 90px,
+      rgba(0, 0, 0, 0.5) 120px,
+      rgba(0, 0, 0, 0.5) 150px,
+      rgba(0, 0, 0, 0.5) 180px,
+      rgba(0, 0, 0, 0.5) 210px,
+      rgba(0, 0, 0, 0.5) 230px
+    ), repeating-linear-gradient(23deg, darkorange 50px, whitesmoke 100px, whitesmoke 150px, darkorange
+        200px, whitesmoke 250px, indigo 300px, darkorange 350px, black 370px);
+            padding: 10px;
+            text-align: center;
+            color: orange;
+        }
+.print{background-color: white; } 
